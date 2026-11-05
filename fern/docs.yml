@@ -1,5 +1,5 @@
 instances:
-  - url: https://test-flow.docs.buildwithfern.com
+  - url: https://code-rustc-2.docs.buildwithfern.com/
 title: Petstore Smoke Test | Documentation
 navigation:
   - api: API Reference
